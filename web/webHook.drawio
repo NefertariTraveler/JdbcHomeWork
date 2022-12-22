@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-22T02:47:16.880Z" agent="5.0 (Windows)" etag="4geP7RpFhiknqg4Fp5LE" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-22T02:49:41.532Z" agent="5.0 (Windows)" etag="Q4vH6TA9w77QdET8_FEF" version="20.7.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="880" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,8 +58,8 @@
         <mxCell id="-x5swoZItuZBtTfcuJNM-2" value="request" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="479" y="190" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_6Vt8_SU3xnYP8CbeVSQ-2" value="&lt;div&gt;webhookMock&lt;/div&gt;&lt;div&gt;webHookParameter&lt;/div&gt;&lt;div&gt;webHookResponse&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="320" width="120" height="50" as="geometry" />
+        <mxCell id="_6Vt8_SU3xnYP8CbeVSQ-2" value="&lt;div&gt;webhookMock&lt;/div&gt;&lt;div&gt;获取&quot;variables&quot;&lt;br&gt;&lt;/div&gt;&lt;div&gt;webHookParameter&lt;/div&gt;&lt;div&gt;webHookResponse&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="310" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_6Vt8_SU3xnYP8CbeVSQ-4" value="&lt;div&gt;httpResponse&lt;/div&gt;&lt;div&gt;获取&quot;data&quot;/&quot;context&quot;&lt;/div&gt;&lt;div&gt;&lt;div&gt;webHookParameter&lt;/div&gt;webHookResponse&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="310" width="120" height="70" as="geometry" />
